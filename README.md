@@ -38,23 +38,23 @@ Este projeto demonstra conceitos fundamentais de lógica de programação aplica
 
 ```
 Jokempo_YuGiOh_DIO/
-  index.html
-  src/
-    assets/
-      audios/
-      cursor/
-      favicon/
-      icons/
-      rpg/
-      video/
-    scripts/
-      engine.js
-    styles/
-      buttons.css
-      containers_and_frames.css
-      main.css
-      reset.css
-  readme.md
+index.html
+src/
+  assets/
+    audios/
+    cursor/
+    favicon/
+    icons/
+    rpg/
+    video/
+  scripts/
+    engine.js
+  styles/
+    buttons.css
+    containers_and_frames.css
+    main.css
+    reset.css
+readme.md
 LICENSE
 ```
 
